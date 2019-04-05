@@ -54,5 +54,8 @@
     float: none;
   }
 
-border-rig
+  .border-right{
+    border: 0;
+  }
+  
 }
