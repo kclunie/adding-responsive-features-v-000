@@ -79,6 +79,7 @@
   #navbar nav a.menu-icom {
     display: block;
     float: right;
+    font-size: 1.5em;
     
   }
 }
