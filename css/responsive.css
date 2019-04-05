@@ -35,7 +35,7 @@
  }
  
  .col-3 p{
-   -moz-column
+   -moz-column-count: 2
  }
 }
 
